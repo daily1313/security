@@ -8,7 +8,6 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 import java.util.Set;
 import java.util.stream.Collectors;
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
 
 
 @Getter
